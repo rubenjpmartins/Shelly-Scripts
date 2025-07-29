@@ -23,4 +23,7 @@ Automação de abertura de portão com dois dispositivos **Shelly Gen 2**
 Mais detalhes em cada ficheiro dentro de **/docs**.
 
 
+
+Para adicionar um botao virtual é necessário fazer primeiro um grupo e só depois é que da para ter o botão virtual
+
 Based on https://github.com/ALLTERCO/shelly-script-examples
